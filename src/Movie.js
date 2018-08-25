@@ -25,4 +25,5 @@ Movie.propTypes = {
 MoviePoster.propTypes = {
     poster: PropTypes.string.isRequired
 }
+
 export default Movie
